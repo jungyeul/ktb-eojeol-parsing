@@ -1,0 +1,1253 @@
+;;3060070:1: 이르면 올해안에 건설교통부와 환경부 ~, 지방자치단체 ~, 지역주민 등이 참여하는 민관합동기구인 ' ~지속가능 지역개발위원회 ~' ~가 공식 출범할 전망이다 ~.
+
+(S (NP-SBJ *pro*)
+   (VP (NP (S (S (NP-SBJ *pro*)
+                 (ADJP 이르/VJ+으면/ECS))
+              (NP-ADV 올해/NNC+안/NNC+에/PAD)
+              (S (NP-SBJ (S (WHNP-1 *op*)
+                            (S (NP-SBJ *T*-1)
+                               (VP (NP (S (WHNP-2 *op*)
+                                          (S (NP-SBJ (NP (NP 건설/NNC+교통부/NNC+과/PCJ)
+                                                         (NP 환경부/NNC)
+                                                         ,/SCM
+                                                         (NP 지방/NNC+자치/NNC+단체/NNC)
+                                                         ,/SCM
+                                                         (NP 지역/NNC+주민/NNC))
+                                                     (NP 등/NNX+이/PCA))
+                                             (VP (NP-COMP *T*-2)
+                                                 (VV 참여/NNC+하/XSV+는/EAN))))
+                                       (NP 민관/NNC+합동/NNC+기구/NNC+이/CO+은/EAN)))))
+                         (NP '/SLQ
+                             지속/NNC+가능/NNC
+                             지역/NNC+개발/NNC+위원회/NNC
+                             '/SRQ
+                             이/PCA))
+                 (VP (NP-ADV 공식/NNC)
+                     (VP (VV 출범/NNC+하/XSV+을/EAN)))))
+           (NP 전망/NNC+이/CO+다/EFN)))
+   ./SFN)
+
+;;3060070:2: 김명자 환경부 장관은 6 일 과천청사 지하 대강당에서 건교부 직원 5 백여명을 대상으로 한 특별강연에서 한강수계 등지의 지역개발과 환경보전 문제를 다룰 상설기구로 ` ~지속가능 지역개발위원회 ~( ~가칭 ~) ~' ~의 신설을 제의했다 ~.
+
+(S (NP-SBJ 김명자/NPR
+           환경부/NNC
+           장관/NNC+은/PAU)
+   (VP (NP-ADV 6/NNU
+               일/NNX)
+       (NP-ADV 과천/NPR+청사/NNC
+               지하/NNC
+               대강당/NNC+에서/PAD)
+       (NP-ADV (S (WHNP-1 *op*)
+                  (S (NP-SBJ *T*-1)
+                     (VP (NP-OBJ 건교부/NNC
+                                 직원/NNC
+                                 5/NNU
+                                 백/NNU+여/XSF+명/NNX+을/PCA)
+                         (VP (NP-COMP 대상/NNC+으로/PAD)
+                             하/VV+은/EAN))))
+               (NP 특별/NNC+강연/NNC+에서/PAD))
+       (NP-ADV (S (WHNP-2 *op*)
+                  (S (NP-SBJ *T*-2)
+                     (VP (NP-OBJ (NP (NP 한강/NPR+수계/NNC)
+                                     (NP 등지/NNX+의/PAN))
+                                 (NP (NP (NP 지역/NNC+개발/NNC+과/PCJ)
+                                         (NP 환경/NNC+보전/NNC))
+                                     (NP 문제/NNC+을/PCA)))
+                         다루/VV+을/EAN)))
+               (NP 상설/NNC+기구/NNC+으로/PAD))
+       (VP (NP-OBJ (NP `/SLQ
+                       지속/NNC+가능/NNC
+                       지역/NNC+개발/NNC+위원회/NNC
+                       (PRN -LRB-/SLQ
+                            가칭/NNC
+                            -RRB-/SRQ)
+                       '/SRQ
+                       의/PAN)
+                   (NP 신설/NNC+을/PCA))
+           (VV 제의/NNC+하/XSV+었/EPF+다/EFN)))
+   ./SFN)
+
+;;3060070:3: 이 위원회는 건교부와 환경부 ~, 지자체 ~, 지역주민 대표들이 참여 ~, 지역개발 과정에서의 환경보전 방안을 협의하는 기구로 준농림지와 상수원 주변 지역 등지의 난개발 해소에 크게 기여할 것으로 기대된다 ~.
+
+(S (NP-SBJ *pro*)
+   (VP (NP-COMP (S (NP-SBJ 이/DAN
+                           위원회/NNC+은/PAU)
+                   (VP (NP-ADV (S (WHNP-1 *op*)
+                                  (S (NP-SBJ (NP 건교부/NNC+과/PCJ)
+                                             (NP 환경부/NNC)
+                                             ,/SCM
+                                             (NP 지자체/NNC)
+                                             ,/SCM
+                                             (NP 지역/NNC+주민/NNC
+                                                 대표/NNC+들/XSF+이/PCA))
+                                     (VP (S (NP-SBJ *pro*)
+                                            (VP (NP-COMP *T*-1)
+                                                (VV 참여/NNC)))
+                                         ,/SCM
+                                         (VP (NP-OBJ (NP 지역/NNC+개발/NNC
+                                                         과정/NNC+에서/PAD+의/PAN)
+                                                     (NP 환경/NNC+보전/NNC
+                                                         방안/NNC+을/PCA))
+                                             (VV 협의/NNC+하/XSV+는/EAN)))))
+                               (NP 기구/NNC+으로/PAD))
+                       (VP (NP-COMP (NP (NP (NP 준농림지/NNC+과/PCJ)
+                                            (NP 상수원/NNC
+                                                주변/NNC
+                                                지역/NNC))
+                                        (NP 등지/NNX+의/PAN))
+                                    (NP 난개발/NNC
+                                        해소/NNC+에/PAD))
+                           (VP (ADVP (ADV 크/VJ+게/ECS))
+                               (VP (VV 기여/NNC+하/XSV+을/EAN))))))
+                (NP 것/NNX+으로/PAD))
+       (VV 기대/NNC+되/XSV+는다/EFN))
+   ./SFN)
+
+;;3060070:4: 특히 건교부도 김 장관의 제의에 대해 매우 환영하는 입장이어서 위원회 출범시기가 한층 앞당겨질 수 있을 것으로 예상된다 ~.
+
+(S (S (ADVP 특히/ADV)
+      (S (NP-SBJ 건교부/NNC+도/PAU)
+         (VP (S (NP-SBJ *pro*)
+                (VP (NP-COMP (NP 김/NPR
+                                 장관/NNC+의/PAN)
+                             (NP 제의/NNC+에/PAD))
+                    대하/VV+어/ECS))
+             (VP (NP (S (NP-SBJ *pro*)
+                        (VP (ADVP 매우/ADV)
+                            (VP (NP-OBJ *pro*)
+                                (VV 환영/NNC+하/XSV+는/EAN))))
+                     (NP 입장/NNC+이/CO+어서/ECS))))))
+   (S (NP-SBJ *pro*)
+      (VP (NP-COMP (S (NP-SBJ 위원회/NNC
+                              출범/NNC+시기/NNC+이/PCA)
+                      (VP (VP (ADVP 한층/ADV)
+                              (VP (VV 앞당기/VV+어지/XSV+을/EAN)))
+                          (VX 수/NNX
+                              있/VJ+을/EAN)))
+                   (NP 것/NNX+으로/PAD))
+          (VV 예상/NNC+되/XSV+는다/EFN)))
+   ./SFN)
+
+;;3060070:5: 김 장관은 김윤기 건교부 장관의 초청으로 마련된 이날 특강에서 준농림지 개발 허용으로 지난 94-98 년에 약 2 천 500 개 숙박업소와 1 만 7 천여개 음식점이 들어서는 등 여의도 면적의 130 배에 달하는 준농림지가 개발됐다고 지적했다 ~.
+
+(S (NP-SBJ 김/NPR
+           장관/NNC+은/PAU)
+   (VP (NP-ADV (S (WHNP-1 *op*)
+                  (S (NP-SBJ *T*-1)
+                     (VP (NP-ADV (NP 김윤기/NPR
+                                     건교부/NNC
+                                     장관/NNC+의/PAN)
+                                 (NP 초청/NNC+으로/PAD))
+                         (VP (VV 마련/NNC+되/XSV+은/EAN)))))
+               (NP 이날/NNC
+                   특강/NNC+에서/PAD))
+       (VP (S-COMP (NP-ADV 준농림지/NNC
+                           개발/NNC
+                           허용/NNC+으로/PAD)
+                   (NP-ADV (S (NP-ADV 지난/DAN
+                                      94/NNU+-/SSY+98/NNU
+                                      년/NNX+에/PAD)
+                              (S (NP-SBJ (NP 약/DAN
+                                             2/NNU
+                                             천/NNU
+                                             500/NNU
+                                             개/NNX
+                                             숙박/NNC+업소/NNC+과/PCJ)
+                                         (NP 1/NNU
+                                             만/NNU
+                                             7/NNU
+                                             천/NNU+여/XSF+개/NNX
+                                             음식점/NNC+이/PCA))
+                                 (VP 들어서/VV+는/EAN)))
+                           (NP 등/NNX))
+                   (S (NP-SBJ (S (WHNP-2 *op*)
+                                 (S (NP-SBJ *T*-2)
+                                    (VP (NP-COMP (NP 여의도/NPR
+                                                     면적/NNC+의/PAN)
+                                                 (NP 130/NNU
+                                                     배/NNX+에/PAD))
+                                        달하/VV+는/EAN)))
+                              (NP 준농림지/NNC+이/PCA))
+                      (VP (VV 개발/NNC+되/XSV+었/EPF+다/EFN+고/PAD))))
+           (VV 지적/NNC+하/XSV+었/EPF+다/EFN)))
+   ./SFN)
+
+;;3060070:6: 김 장관은 특히 과거의 개발행태가 수도권과 경부축에 집중되는 등 지역편중현상이 극심했다고 지적하고 이런 난개발 과정에서 파생되는 환경문제를 특정부처가 나서 해결하기에는 역부족이라며 건교부 관리들의 협력을 촉구했다 ~.
+
+(S (NP-SBJ 김/NPR
+           장관/NNC+은/PAU)
+   (VP (VP (ADVP 특히/ADV)
+           (VP (S-COMP (NP-SBJ (NP (S (NP-SBJ (NP 과거/NNC+의/PAN)
+                                              (NP 개발/NNC+형태/NNC+이/PCA))
+                                      (VP (NP-COMP (NP 수도권/NNC+과/PCJ)
+                                                   (NP 경부/NNC+측/XSF+에/PAD))
+                                          (VV 집중/NNC+되/XSV+는/EAN)))
+                                   (NP 등/NNX))
+                               (NP 지역/NNC+편중/NNC+현상/NNC+이/PCA))
+                       (ADJP 극심하/VJ+었/EPF+다/EFN+고/PAD))
+               (VV 지적/NNC+하/XSV+고/ECS)))
+       (VP (S (NP-SBJ *pro*)
+              (VP (S-COMP (NP-OBJ-1 (DANP 이런/DAN)
+                                    (NP (S (WHNP-2 *op*)
+                                           (S (NP-SBJ *T*-2)
+                                              (VP (NP-COMP 난개발/NNC
+                                                           과정/NNC+에서/PAD)
+                                                  (VV 파생/NNC+되/XSV+는/EAN))))
+                                        (NP 환경/NNC+문제/NNC+을/PCA)))
+                          (S (NP-SBJ 특정/NNC+부처/NNC+이/PCA)
+                             (VP (S (NP-SBJ *pro*)
+                                    (VP 나서/VV+어/ECS))
+                                 (VP (NP-OBJ *T*-1)
+                                     (VV 해결/NNC+하/XSV+기/ENM+에/PAD+은/PAU)))))
+                  (VP (NP 역부족/NNC+이/CO+라며/ECS))))
+           (VP (NP-OBJ (NP 건교부/NNC
+                           관리/NNC+들/XSF+의/PAN)
+                       (NP 협력/NNC+을/PCA))
+               (VV 촉구/NNC+하/XSV+었/EPF+다/EFN))))
+   ./SFN)
+
+;;3060070:7: 김 장관은 특히 대규모 댐건설과 간척사업 등 환경논리보다는 경제성 위주의 개발사업이 시행되는 과정에서 상당한 부작용이 초래되고 있다며 환경친화적인 개발과 관리가 병행돼야 한다고 설명했다 ~.
+
+(S (NP-SBJ 김/NPR
+           장관/NNC+은/PAU)
+   (VP (S (ADVP 특히/ADV)
+          (NP-ADV (S (NP-SBJ (NP (NP (NP 대규모/NNC)
+                                     (NP (NP 댐/NNC+건설/NNC+과/PCJ)
+                                         (NP 간척/NNC+사업/NNC)))
+                                 (NP 등/NNX))
+                             (NP (NP (NP 환경/NNC+논리/NNC+보다/PAD+은/PAU)
+                                     (NP 경제성/NNC
+                                         위주/NNC+의/PAN))
+                                 (NP 개발/NNC+사업/NNC+이/PCA)))
+                     (VP (VV 시행/NNC+되/XSV+는/EAN)))
+                  (NP 과정/NNC+에서/PAD))
+          (S (NP-SBJ (S (WHNP-1 *op*)
+                        (S (NP-SBJ *T*-1)
+                           (ADJP (VJ 상당/NNC+하/XSJ+은/EAN))))
+                     (NP 부작용/NNC+이/PCA))
+             (VP (VP (VV 초래/NNC+되/XSV+고/ECS))
+                 있/VX+다며/ECS)))
+       (VP (S-COMP (NP-SBJ (S (WHNP-2 *op*)
+                              (S (NP-SBJ *T*-2)
+                                 (VP (NP 환경/NNC+친화/NNC+적/XSF+이/CO+은/EAN))))
+                           (NP (NP 개발/NNC+과/PCJ)
+                               (NP 관리/NNC+이/PCA)))
+                   (VP (VP (VV 병행/NNC+되/XSV+어야/ECS))
+                       하/VX+는다/EFN+고/PAD))
+           (VV 설명/NNC+하/XSV+었/EPF+다/EFN)))
+   ./SFN)
+
+;;3060070:8: 김 장관은 이어 제 4 차 국토종합계획 ~( ~2000-2020 ~) ~에는 환경친화적인 개발을 강조해 다행이라며 앞으로도 건교부와 환경부간의 협력체제가 더욱 강화돼야 할 것이라고 강조했다 ~.
+
+(S (NP-SBJ 김/NPR
+           장관/NNC+은/PAU)
+   (VP (ADVP 이어/ADV)
+       (S (S (NP-SBJ *pro*)
+             (VP (NP-ADV 제/DAN
+                         4/NNU
+                         차/NNX
+                         국토/NNC+종합/NNC+계획/NNC
+                         (PRN -LRB-/SLQ
+                              2000-2020/NNU
+                              -RRB-/SRQ)
+                         에/PAD+은/PAU)
+                 (VP (NP-OBJ (S (WHNP-1 *op*)
+                                (S (NP-SBJ *T*-1)
+                                   (VP (NP 환경/NNC+친화/NNC+적/XSF+이/CO+은/EAN))))
+                             (NP 개발/NNC+을/PCA))
+                     (VV 강조/NNC+하/XSV+어/ECS))))
+          (S (NP-SBJ *pro*)
+             (VP (NP 다행/NNC+이/CO+라며/ECS))))
+       (VP (S-COMP (NP-ADV 앞/NNC+으로/PAD+도/PAU)
+                   (S (NP-SBJ (NP (NP 건교부/NNC+과/PCJ)
+                                  (NP 환경부/NNC+간/XSF+의/PAN))
+                              (NP 협력/NNC+체제/NNC+이/PCA))
+                      (VP (VP (VP (ADVP 더욱/ADV)
+                                  (VP (VV 강화/NNC+되/XSV+어야/ECS)))
+                              하/VX+을/EAN)
+                          (VX 것/NNX+이/CO+라/EFN+고/PAD))))
+           (VV 강조/NNC+하/XSV+었/EPF+다/EFN)))
+   ./SFN)
+
+;;3060070:9: 김 장관은 또 매년 봄철마다 되풀이되는 황사현상과 관련해 중국 서부지역의 산림 조성에 참여하기로 하고 현재 정부 차원에서 타당성 조사를 실시하고 있다고 전했다 ~.
+
+(S (NP-SBJ 김/NPR
+           장관/NNC+은/PAU)
+   (VP (ADVP 또/ADV)
+       (S (NP-SBJ *pro*)
+          (VP (NP-COMP (S (WHNP-1 *op*)
+                          (S (NP-SBJ *T*-1)
+                             (VP (NP-ADV 매년/NNC
+                                         봄철/NNC+마다/PAU)
+                                 (VP (VV 되풀이/NNC+되/XSV+는/EAN)))))
+                       (NP 황사/NNC+현상/NNC+과/PAD))
+              (VV 관련/NNC+하/XSV+어/ECS)))
+       (VP (S-COMP (NP-SBJ *pro*)
+                   (VP (VP (S-COMP (NP-SBJ *pro*)
+                                   (VP (NP-COMP (NP 중국/NPR
+                                                    서부/NNC+지역/NNC+의/PAN)
+                                                (NP 산림/NNC
+                                                    조성/NNC+에/PAD))
+                                       (VV 참여/NNC+하/XSV+기/ENM+으로/PAD)))
+                           하/VV+고/ECS)
+                       (VP (VP (NP-ADV 현재/NNC)
+                               (NP-ADV 정부/NNC
+                                       차원/NNC+에서/PAD)
+                               (VP (NP-OBJ 타당성/NNC
+                                           조사/NNC+을/PCA)
+                                   (VV 실시/NNC+하/XSV+고/ECS)))
+                           있/VX+다/EFN+고/PAD)))
+           전하/VV+었/EPF+다/EFN))
+   ./SFN)
+
+;;3060070:10: 최근 중국을 방문한 김 장관은 주룽지 ~( ~주용기 ~) 중국 총리와의 면담에서 주총리가 신장 ~( ~신강 ~) 위구르 자치구 우르마치에서 상해를 잇는 200 억달러 규모의 천연가스 수송관 건설 프로젝트에 한국기업의 참여를 요청했다고 밝혔다 ~.
+
+(S (NP-SBJ (S (WHNP-1 *op*)
+              (S (NP-SBJ *T*-1)
+                 (VP (NP-ADV 최근/NNC)
+                     (VP (NP-OBJ 중국/NPR+을/PCA)
+                         (VV 방문/NNC+하/XSV+은/EAN)))))
+           (NP 김/NPR
+               장관/NNC+은/PAU))
+   (VP (S-COMP (NP-ADV (NP 주룽지/NPR
+                           (PRN -LRB-/SLQ
+                                주용기/NPR
+                                -RRB-/SRQ)
+                           중국/NPR
+                           총리/NNC+과/PAD+의/PAN)
+                       (NP 면담/NNC+에서/PAD))
+               (S (NP-SBJ 주/NPR+총리/NNC+이/PCA)
+                  (VP (NP-OBJ (NP (NP (S (WHNP-2 *op*)
+                                         (S (NP-SBJ *T*-2)
+                                            (VP (NP-COMP (NP 신장/NPR
+                                                             (PRN -LRB-/SLQ
+                                                                  신강/NPR
+                                                                  -RRB-/SRQ)
+                                                             위구르/NPR
+                                                             자치구/NNC)
+                                                         (NP 우르마치/NPR+에서/PAD))
+                                                (NP-OBJ 상해/NPR+을/PCA)
+                                                잇/VV+는/EAN)))
+                                      (NP (NP 200/NNU
+                                              억/NNU+달러/NNX
+                                              규모/NNC+의/PAN)
+                                          (NP 천연가스/NNC
+                                              수송관/NNC)))
+                                  (NP 건설/NNC
+                                      프로젝트/NNC+에/PAD))
+                              (NP (NP 한국/NPR+기업/NNC+의/PAN)
+                                  (NP 참여/NNC+을/PCA)))
+                      (VV 요청/NNC+하/XSV+었/EPF+다/EFN+고/PAD))))
+       밝히/VV+었/EPF+다/EFN)
+   ./SFN)
+
+;;3060071:11: 미국의 제너럴모터스 ~( ~GM ~) ~사는 6 일 아시아 ~, 태평양경제협력체 ~( ~APEC ~) 회원국내 중소 자동차부품업체 제품의 구매를 늘리기로 했다고 GM코리아가 발표했다 ~.
+
+(S (S-COMP-1 (NP-SBJ (NP 미국/NPR+의/PAN)
+                     (NP 제너럴모터스/NPR
+                         (PRN -LRB-/SLQ
+                              GM/NFW
+                              -RRB-/SRQ)
+                         사/XSF+은/PAU))
+             (VP (NP-ADV 6/NNU
+                         일/NNX)
+                 (VP (S-COMP (NP-SBJ *pro*)
+                             (VP (NP-OBJ (NP (NP (NP 아시아/NPR
+                                                     ,/SCM
+                                                     태평양/NPR+경제/NNC+협력체/NNC
+                                                     (PRN -LRB-/SLQ
+                                                          APEC/NFW
+                                                          -RRB-/SRQ))
+                                                 (NP 회원국/NNC+내/NNX))
+                                             (NP 중소/NNC
+                                                 자동차/NNC+부품/NNC+업체/NNC
+                                                 제품/NNC+의/PAN))
+                                         (NP 구매/NNC+을/PCA))
+                                 늘리/VV+기/ENM+으로/PAD))
+                     하/VV+었/EPF+다/EFN+고/PAD)))
+   (S (NP-SBJ GM/NFW+코리아/NPR+이/PCA)
+      (VP (S-COMP *T*-1)
+          (VV 발표/NNC+하/XSV+었/EPF+다/EFN)))
+   ./SFN)
+
+;;3060071:12: 발표에 따르면 앨런 패리튼 GM 아태지역 신규사업 최고 책임자와 APEC 내 민간기구인 ` ~균형있는 발전을 위한 파트너십 ~( ~PEG ~) ~' ~의 샤피크 시트 압둘라 대표는 이날 서울에서 만나 이같은 내용에 합의했다 ~.
+
+(S (S (NP-SBJ *pro*)
+      (VP (NP-COMP 발표/NNC+에/PAD)
+          따르/VV+으면/ECS))
+   (S (NP-SBJ (NP 앨런/NPR
+                  패리튼/NPR
+                  GM/NFW
+                  아태/NPR+지역/NNC
+                  신규/NNC+사업/NNC
+                  최고/NNC
+                  책임자/NNC+과/PCJ)
+              (NP (NP (S (WHNP-1 *op*)
+                         (S (NP-SBJ *T*-1)
+                            (VP (NP APEC/NFW
+                                    내/NNX
+                                    민간/NNC+기구/NNC+이/CO+은/EAN))))
+                      (NP `/SLQ
+                          (S (WHNP-3 *op*)
+                             (S (NP-SBJ *T*-3)
+                                (VP (NP-OBJ (S (WHNP-2 *op*)
+                                               (S (NP-SBJ *T*-2)
+                                                  (ADJP 균형/NNC+있/VJ+는/EAN)))
+                                            (NP 발전/NNC+을/PCA))
+                                    위하/VV+은/EAN)))
+                          (NP 파트너십/NNC)
+                          (PRN -LRB-/SLQ
+                               PEG/NFW
+                               -RRB-/SRQ)
+                          '/SRQ
+                          의/PAN))
+                  (NP 샤피크/NPR
+                      시트/NPR
+                      압둘라/NPR
+                      대표/NNC+은/PAU)))
+      (VP (S (NP-SBJ *pro*)
+             (VP (NP-ADV 이날/NNC)
+                 (NP-ADV 서울/NPR+에서/PAD)
+                 (VP 만나/VV+어/ECS)))
+          (VP (NP-COMP 이같은/DAN
+                       내용/NNC+에/PAD)
+              (VV 합의/NNC+하/XSV+었/EPF+다/EFN))))
+   ./SFN)
+
+;;3060071:13: GM은 최근 4 년간 자사가 한국 자동차 부품업체의 제품 10 억달러어치를 구매했으며 중소기업과의 기술교환 ~, 품질관리 등의 기회를 늘려 ~갈 예정이라고 덧붙였다 ~.
+
+(S (NP-SBJ GM/NFW+은/PAU)
+   (VP (S-COMP (S (NP-ADV 최근/NNC
+                          4/NNU
+                          년/NNX+간/XSF)
+                  (S (NP-SBJ 자사/NNC+이/PCA)
+                     (VP (NP-OBJ (NP (NP 한국/NPR
+                                         자동차/NNC
+                                         부품/NNC+업체/NNC+의/PAN)
+                                     (NP 제품/NNC))
+                                 (NP 10/NNU
+                                     억/NNU+달러/NNX+어치/XSF+을/PCA))
+                         (VV 구매/NNC+하/XSV+었/EPF+으며/ECS))))
+               (S (NP-SBJ *pro*)
+                  (VP (NP (S (NP-SBJ *pro*)
+                             (VP (VP (NP-OBJ (NP (NP (NP 중소기업/NNC+과/PAD+의/PAN)
+                                                     (NP (NP 기술/NNC+교환/NNC)
+                                                         ,/SCM
+                                                         (NP 품질/NNC+관리/NNC)))
+                                                 (NP 등/NNX+의/PAN))
+                                             (NP 기회/NNC+을/PCA))
+                                     늘리/VV+어/ECS)
+                                 가/VX+을/EAN))
+                          (NP 예정/NNC+이/CO+라/EFN+고/PAD)))))
+       덧붙이/VV+었/EPF+다/EFN)
+   ./SFN)
+
+;;3060071:14: GM의 이번 조치는 GM이나 포드의 대우자동차 매입시 국내 중소기업의 기반이 붕괴될 것이라는 중소기업계의 우려를 불식시키기 위한 노력의 일환인 것으로 분석된다 ~.
+
+(S (NP-SBJ *pro*)
+   (VP (NP-COMP (S (NP-SBJ (NP GM/NFW+의/PAN)
+                           (NP 이번/NNC
+                               조치/NNC+은/PAU))
+                   (VP (NP (NP (S (WHNP-2 *op*)
+                                  (S (NP-SBJ *T*-2)
+                                     (VP (S-OBJ (NP-SBJ *pro*)
+                                                (VP (NP-OBJ (S (NP-ADV (NP (NP GM/NFW+이나/PCJ)
+                                                                           (NP 포드/NPR+의/PAN))
+                                                                       (NP 대우/NPR+자동차/NNC
+                                                                           매입/NNC+시/NNX))
+                                                               (S (NP-SBJ (NP 국내/NNC
+                                                                              중소기업/NNC+의/PAN)
+                                                                          (NP 기반/NNC+이/PCA))
+                                                                  (VP (VP (VV 붕괴/NNC+되/XSV+을/EAN))
+                                                                      (VX 것/NNX+이/CO+라는/EAN))))
+                                                            (NP (NP 중소기업/NNC+계/XSF+의/PAN)
+                                                                (NP 우려/NNC+을/PCA)))
+                                                    (VV 불식/NNC+시키/XSV+기/ENM)))
+                                         위하/VV+은/EAN)))
+                               (NP 노력/NNC+의/PAN))
+                           (NP 일환/NNC+이/CO+은/EAN))))
+                (NP 것/NNX+으로/PAD))
+       (VV 분석/NNC+되/XSV+는다/EFN))
+   ./SFN)
+
+;;3060071:15: 지난 98 년 설립된 PEG는 글로벌 자동차기업과 APEC 역내 중소기업간 교류를 증진시키기 위한 사업을 펼치고 있는 APEC 내 민간기구다 ~.
+
+(S (NP-SBJ (S (WHNP-1 *op*)
+              (S (NP-SBJ *T*-1)
+                 (VP (NP-ADV 지난/DAN
+                             98/NNU
+                             년/NNX)
+                     (VP (VV 설립/NNC+되/XSV+은/EAN)))))
+           (NP PEG/NFW+은/PAU))
+   (VP (NP (S (WHNP-2 *op*)
+              (S (NP-SBJ *T*-2)
+                 (VP (VP (NP-OBJ (S (WHNP-3 *op*)
+                                    (S (NP-SBJ *T*-3)
+                                       (VP (S-OBJ (NP-SBJ *pro*)
+                                                  (VP (NP-OBJ (NP (NP 글로벌/NNC
+                                                                      자동차/NNC+기업/NNC+과/PCJ)
+                                                                  (NP APEC/NFW
+                                                                      역내/NNC
+                                                                      중소기업/NNC+간/XSF))
+                                                              (NP 교류/NNC+을/PCA))
+                                                      (VV 증진/NNC+시키/XSV+기/ENM)))
+                                           위하/VV+은/EAN)))
+                                 (NP 사업/NNC+을/PCA))
+                         펼치/VV+고/ECS)
+                     있/VX+는/EAN)))
+           (NP APEC/NFW
+               내/NNX
+               민간/NNC+기구/NNC+이/CO+다/EFN)))
+   ./SFN)
+
+;;3060074:16: 빌 클린턴 미국 대통령의 부인 힐러리 ~( ~52 ~) 여사는 5 일 기니 출신 이민자 아마도우 디알로 사망사건으로 최근 여론의 비난을 받고 있는 뉴욕시 경찰에 대해 전면적인 개혁을 요구했다 ~.
+
+(S (NP-SBJ (NP (NP 빌/NPR
+                   클린턴/NPR
+                   미국/NPR
+                   대통령/NNC+의/PAN)
+               (NP 부인/NNC))
+           (NP 힐러리/NPR
+               (PRN -LRB-/SLQ
+                    52/NNU
+                    -RRB-/SRQ)
+               여사/NNC+은/PAU))
+   (VP (NP-ADV 5/NNU
+               일/NNX)
+       (S (NP-SBJ *pro*)
+          (VP (NP-COMP (S (WHNP-1 *op*)
+                          (S (NP-SBJ *T*-1)
+                             (VP (VP (NP-ADV (NP (NP 기니/NPR
+                                                     출신/NNC
+                                                     이민자/NNC)
+                                                 (NP 아마도우/NPR
+                                                     디알로/NPR))
+                                             (NP 사망/NNC+사건/NNC+으로/PAD))
+                                     (NP-ADV 최근/NNC)
+                                     (VP (NP-OBJ (NP 여론/NNC+의/PAN)
+                                                 (NP 비난/NNC+을/PCA))
+                                         받/VV+고/ECS))
+                                 있/VX+는/EAN)))
+                       (NP 뉴욕/NPR+시/NNC
+                           경찰/NNC+에/PAD))
+              대하/VV+어/ECS))
+       (VP (NP-OBJ (S (WHNP-2 *op*)
+                      (S (NP-SBJ *T*-2)
+                         (VP (NP 전면/NNC+적/XSF+이/CO+은/EAN))))
+                   (NP 개혁/NNC+을/PCA))
+           (VV 요구/NNC+하/XSV+었/EPF+다/EFN)))
+   ./SFN)
+
+;;3060074:17: 지난달 초 뉴욕주 상원의원 출마를 공식 선언한 힐러리 여사는 이날 리버사이드 교회의 예배에 참석해 " ~우선적으로 실시할 개혁은 아프리카나 라틴계 출신을 경찰관으로 임용하는 것 ~" ~이라면서 " ~아울러 경찰들이 용의자의 총기휴대 여부를 파악할 수 있도록 관련 기술을 도입해야 한다 ~" ~고 강조했다 ~.
+
+(S (NP-SBJ (S (WHNP-1 *op*)
+              (S (NP-SBJ *T*-1)
+                 (VP (NP-ADV 지난달/NNC
+                             초/NNX)
+                     (VP (NP-OBJ 뉴욕/NPR+주/NNC
+                                 상원/NNC+의원/NNC
+                                 출마/NNC+을/PCA)
+                         (VP (NP-ADV 공식/NNC)
+                             (VP (VV 선언/NNC+하/XSV+은/EAN)))))))
+           (NP 힐러리/NPR
+               여사/NNC+은/PAU))
+   (VP (S (NP-SBJ *pro*)
+          (VP (NP-ADV 이날/NNC)
+              (VP (NP-COMP (NP 리버사이드/NPR
+                               교회/NNC+의/PAN)
+                           (NP 예배/NNC+에/PAD))
+                  (VV 참석/NNC+하/XSV+어/ECS))))
+       (S "/SLQ
+          (NP-SBJ (S (WHNP-2 *op*)
+                     (S (NP-SBJ *pro*)
+                        (VP (NP-ADV 우선/NNC+적/XSF+으로/PAD)
+                            (VP (NP-OBJ *T*-2)
+                                (VV 실시/NNC+하/XSV+을/EAN)))))
+                  (NP 개혁/NNC+은/PAU))
+          (VP (NP (S (NP-SBJ *pro*)
+                     (VP (NP-OBJ (NP (NP 아프리카/NPR+이나/PCJ)
+                                     (NP 라틴/NPR+계/XSF))
+                                 (NP 출신/NNC+을/PCA))
+                         (NP-COMP 경찰관/NNC+으로/PAD)
+                         (VV 임용/NNC+하/XSV+는/EAN)))
+                  (NP 것/NNX)))
+          "/SRQ
+          이/CO+라면서/ECS)
+       (VP (S-COMP "/SLQ
+                   (ADVP 아울러/ADV)
+                   (S (NP-SBJ 경찰/NNC+들/XSF+이/PCA)
+                      (VP (VP (NP-OBJ (NP 용의자/NNC+의/PAN)
+                                      (NP 총기/NNC+휴대/NNC
+                                          여부/NNC+을/PCA))
+                              (VV 파악/NNC+하/XSV+을/EAN))
+                          (VX 수/NNX
+                              있/VJ+도록/ECS)))
+                   (S (NP-SBJ *pro*)
+                      (VP (VP (NP-OBJ 관련/NNC
+                                      기술/NNC+을/PCA)
+                              (VV 도입/NNC+하/XSV+어야/ECS))
+                          하/VX+는다/EFN))
+                   "/SRQ
+                   고/PAD)
+           (VV 강조/NNC+하/XSV+었/EPF+다/EFN)))
+   ./SFN)
+
+;;3060074:18: 그녀는 경찰관이 자신의 관할지역에 거주하는 것을 의무로 하는 새로운 규정이 필요하다면서 " ~경찰관이 관할지역을 이해하기 위해서는 그 지역으로 이사해 거주하는 것이 가장 좋은 방법 ~" ~이라고 말했다 ~.
+
+(S (NP-SBJ 그녀/NPN+은/PAU)
+   (VP (S (NP-SBJ (S (WHNP-1 *op*)
+                     (S (NP-SBJ *T*-1)
+                        (VP (NP-OBJ (S (NP-SBJ 경찰관/NNC+이/PCA)
+                                       (VP (NP-COMP (NP 자신/NNC+의/PAN)
+                                                    (NP 관할/NNC+지역/NNC+에/PAD))
+                                           (VV 거주/NNC+하/XSV+는/EAN)))
+                                    (NP 것/NNX+을/PCA))
+                            (NP-COMP 의무/NNC+으로/PAD)
+                            하/VV+는/EAN)))
+                  (NP (S (WHNP-3 *op*)
+                         (S (NP-SBJ *T*-3)
+                            (ADJP 새롭/VJ+은/EAN)))
+                      (NP 규정/NNC+이/PCA)))
+          (ADJP (VJ 필요/NNC+하/XSJ+다면서/ECS)))
+       (VP (S-COMP "/SLQ
+                   (S (NP-SBJ 경찰관/NNC+이/PCA)
+                      (VP (S-OBJ (NP-SBJ *pro*)
+                                 (VP (NP-OBJ 관할/NNC+지역/NNC+을/PCA)
+                                     (VV 이해/NNC+하/XSV+기/ENM)))
+                          위하/VV+어서/ECS+은/PAU))
+                   (S (NP-SBJ *pro*)
+                      (VP (NP (S (NP-SBJ (S (NP-SBJ *pro*)
+                                            (VP (S (NP-SBJ *pro*)
+                                                   (VP (NP-COMP 그/DAN
+                                                                지역/NNC+으로/PAD)
+                                                       (VV 이사/NNC+하/XSV+어/ECS)))
+                                                (VP (NP-COMP *pro*)
+                                                    (VV 거주/NNC+하/XSV+는/EAN))))
+                                         (NP 것/NNX+이/PCA))
+                                 (ADJP (ADVP 가장/ADV)
+                                       (ADJP 좋/VJ+은/EAN)))
+                              (NP 방법/NNC))))
+                   "/SRQ
+                   이/CO+라/EFN+고/PAD)
+           말하/VV+었/EPF+다/EFN))
+   ./SFN)
+
+;;3060074:19: 힐러리 여사는 또 " ~효율적인 치안유지와 상호존중이 공존할 수 없다는 생각은 잘못 ~" ~이라면서 " ~경찰업무를 수행한다는 이유로 지역 공동체와의 관계를 악화시켜서는 안된다 ~" ~고 강조했다 ~.
+
+(S (NP-SBJ 힐러리/NPR
+           여사/NNC+은/PAU)
+   (VP (ADVP 또/ADV)
+       (S "/SLQ
+          (NP-SBJ (S (NP-SBJ (NP (S (WHNP-1 *op*)
+                                    (S (NP-SBJ *T*-1)
+                                       (VP (NP 효율/NNC+적/XSF+이/CO+은/EAN))))
+                                 (NP 치안/NNC+유지/NNC+과/PCJ))
+                             (NP 상호/NNC+존중/NNC+이/PCA))
+                     (VP (VP (VV 공존/NNC+하/XSV+을/EAN))
+                         (VX 수/NNX
+                             없/VJ+다는/EAN)))
+                  (NP 생각/NNC+은/PAU))
+          (VP (NP 잘못/NNC))
+          "/SRQ
+          이/CO+라면서/ECS)
+       (VP (S-COMP "/SLQ
+                   (S (NP-SBJ *pro*)
+                      (VP (NP-ADV (S (NP-SBJ *pro*)
+                                     (VP (NP-OBJ 경찰/NNC+업무/NNC+을/PCA)
+                                         (VV 수행/NNC+하/XSV+는다는/EAN)))
+                                  (NP 이유/NNC+으로/PAD))
+                          (VP (NP-OBJ (NP 지역/NNC
+                                          공동체/NNC+과/PAD+의/PAN)
+                                      (NP 관계/NNC+을/PCA))
+                              (VV 악화/NNC+시키/XSV+어서/ECS+은/PAU))))
+                   (S (NP-SBJ *pro*)
+                      (VP 안되/VV+는다/EFN))
+                   "/SRQ
+                   고/PAD)
+           (VV 강조/NNC+하/XSV+었/EPF+다/EFN)))
+   ./SFN)
+
+;;3060074:20: 아울러 " ~디알로가 백인 거주지에 사는 백인이었다면 아직까지 살아 있을 것 ~" ~이라고 그녀는 덧붙였다 ~.
+
+(S (ADVP 아울러/ADV)
+   (S (S-COMP-1 "/SLQ
+                (S (NP-SBJ 디알로/NPR+이/PCA)
+                   (VP (NP (S (WHNP-2 *op*)
+                              (S (NP-SBJ *T*-2)
+                                 (VP (NP-COMP 백인/NNC
+                                              거주지/NNC+에/PAD)
+                                     살/VV+는/EAN)))
+                           (NP 백인/NNC+이/CO+었/EPF+다면/ECS))))
+                (S (NP-SBJ *pro*)
+                   (VP (VP (VP (NP-ADV 아직/NNC+까지/PAU)
+                               (VP 살/VV+어/ECS))
+                           있/VX+을/EAN)
+                       (VX 것/NNX)))
+                "/SRQ
+                이/CO+라/EFN+고/PAD)
+      (S (NP-SBJ 그녀/NPN+은/PAU)
+         (VP (S-COMP *T*-1)
+             덧붙이/VV+었/EPF+다/EFN)))
+   ./SFN)
+
+;;3060074:21: 지난달 24 일 뉴욕주 올버니 법원 배심원단은 지난해 2 월 디알로 ~( ~당시 22 세 ~) ~가 지갑을 꺼내는 것을 총기로 대응하려는 것으로 오인 ~, 무려 41 발의 총탄을 발사해 사망케 한 뉴욕시 경찰 4 명에 대해 무죄평결을 내렸고 인권단체들은 이에 거세게 반발했다 ~.
+
+(S (S (NP-ADV 지난달/NNC
+              24/NNU
+              일/NNX)
+      (S (NP-SBJ 뉴욕/NPR+주/NNC
+                 올버니/NPR
+                 법원/NNC
+                 배심원단/NNC+은/PAU)
+         (VP (S (NP-SBJ *pro*)
+                (VP (NP-COMP (S (WHNP-1 *op*)
+                                (S (S (NP-SBJ *T*-1)
+                                      (VP (NP-OBJ (S (NP-ADV 지난해/NNC
+                                                             2/NNU
+                                                             월/NNX)
+                                                     (S (NP-SBJ 디알로/NPR
+                                                                (PRN -LRB-/SLQ
+                                                                     당시/NNC
+                                                                     22/NNU
+                                                                     세/NNX
+                                                                     -RRB-/SRQ)
+                                                                이/PCA)
+                                                        (VP (NP-OBJ 지갑/NNC+을/PCA)
+                                                            꺼내/VV+는/EAN)))
+                                                  (NP 것/NNX+을/PCA))
+                                          (NP-COMP (S (NP-SBJ *pro*)
+                                                      (VP (NP-ADV 총기/NNC+으로/PAD)
+                                                          (VP (VV 대응/NNC+하/XSV+으려는/EAN))))
+                                                   (NP 것/NNX+으로/PAD))
+                                          (VV 오인/NNC)))
+                                   ,/SCM
+                                   (S (NP-SBJ *T*-1)
+                                      (VP (NP-OBJ (NP (ADVP 무려/ADV)
+                                                      (NP 41/NNU
+                                                          발/NNX+의/PAN))
+                                                  (NP 총탄/NNC+을/PCA))
+                                          (VV 발사/NNC+하/XSV+어/ECS)))
+                                   (S (NP-SBJ *T*-1)
+                                      (VP (S-COMP (NP-SBJ *pro*)
+                                                  (VP (VV 사망/NNC+하/XSV+게/ECS)))
+                                          하/VV+은/EAN))))
+                             (NP 뉴욕/NPR+시/NNC
+                                 경찰/NNC
+                                 4/NNU
+                                 명/NNX+에/PAD))
+                    대하/VV+어/ECS))
+             (VP (NP-OBJ 무죄/NNC+평결/NNC+을/PCA)
+                 내리/VV+었/EPF+고/ECS))))
+   (S (NP-SBJ 인권/NNC+단체/NNC+들/XSF+은/PAU)
+      (VP (NP-COMP 이/NPN+에/PAD)
+          (VP (ADVP (ADV 거세/VJ+게/ECS))
+              (VP (VV 반발/NNC+하/XSV+었/EPF+다/EFN)))))
+   ./SFN)
+
+;;3060075:22: 올해 북한과 중국의 실질관계가 한층 진전될 것으로 보인다고 정부 당국자가 6 일 전망했다 ~.
+
+(S (S-COMP-1 (NP-SBJ *pro*)
+             (VP (NP-COMP (S (NP-ADV 올해/NNC)
+                             (S (NP-SBJ (NP (NP 북한/NPR+과/PCJ)
+                                            (NP 중국/NPR+의/PAN))
+                                        (NP 실질/NNC+관계/NNC+이/PCA))
+                                (VP (ADVP 한층/ADV)
+                                    (VP (VV 진전/NNC+되/XSV+을/EAN)))))
+                          (NP 것/NNX+으로/PAD))
+                 보이/VV+는다/EFN+고/PAD))
+   (S (NP-SBJ 정부/NNC
+              당국자/NNC+이/PCA)
+      (VP (NP-ADV 6/NNU
+                  일/NNX)
+          (VP (S-COMP *T*-1)
+              (VV 전망/NNC+하/XSV+었/EPF+다/EFN))))
+   ./SFN)
+
+;;3060075:23: 이 당국자는 " ~북한 김정일 총비서가 지난 5 일 평양주재 중국대사관을 방문한 것은 북 ~- ~중 관계개선 차원에서 가볍게 볼 사안은 아니다 ~" ~면서 " ~북한의 수요 못지않게 특히 중국 군부는 올해 한국전쟁 50 주년을 의미없이 넘기지 않을 것 ~" ~이라고 밝혔다 ~.
+
+(S (NP-SBJ 이/DAN
+           당국자/NNC+은/PAU)
+   (VP (S "/SLQ
+          (NP-SBJ (S (NP-SBJ 북한/NPR
+                             김정일/NPR
+                             총비서/NNC+이/PCA)
+                     (VP (NP-ADV 지난/DAN
+                                 5/NNU
+                                 일/NNX)
+                         (VP (NP-OBJ (NP 평양/NPR+주재/NNC)
+                                     (NP 중국/NPR+대사관/NNC+을/PCA))
+                             (VV 방문/NNC+하/XSV+은/EAN))))
+                  (NP 것/NNX+은/PAU))
+          (ADJP (NP-ADV 북/NPR
+                        -/SSY
+                        중/NPR
+                        관계/NNC+개선/NNC
+                        차원/NNC+에서/PAD)
+                (ADJP (NP-COMP (S (WHNP-1 *op*)
+                                  (S (NP-SBJ *pro*)
+                                     (VP (NP-OBJ *T*-1)
+                                         (ADVP-COMP (ADV 가볍/VJ+게/ECS))
+                                         보/VV+을/EAN)))
+                               (NP 사안/NNC+은/PAU))
+                      아니/VJ+다/EFN))
+          "/SRQ
+          면서/ECS)
+       (VP (S-COMP "/SLQ
+                   (S (NP-SBJ *pro*)
+                      (ADJP (NP-COMP (NP 북한/NPR+의/PAN)
+                                     (NP 수요/NNC))
+                            못지않/VJ+게/ECS))
+                   (ADVP 특히/ADV)
+                   (S (NP-SBJ 중국/NPR
+                              군부/NNC+은/PAU)
+                      (VP (VP (VP (NP-OBJ 올해/NNC
+                                          한국/NPR+전쟁/NNC
+                                          50/NNU
+                                          주년/NNX+을/PCA)
+                                  (VP (ADVP 의미/NNC+없이/ADV)
+                                      (VP 넘기/VV+지/ECS)))
+                              않/VX+을/EAN)
+                          (VX 것/NNX)))
+                   "/SRQ
+                   이/CO+라/EFN+고/PAD)
+           밝히/VV+었/EPF+다/EFN))
+   ./SFN)
+
+;;3060075:24: 이 당국자는 " ~김 총비서 겸 국방위원장의 중국대사관 방문은 이런 측면에서도 의미를 부여할 수 있을 것 ~" ~이라고 덧붙였다 ~.
+
+(S (NP-SBJ 이/DAN
+           당국자/NNC+은/PAU)
+   (VP (S-COMP "/SLQ
+               (NP-COMP-1 (NP (NP 김/NPR)
+                              (NP 총비서/NNC
+                                  겸/NNX
+                                  국방/NNC+위원장/NNC+의/PAN))
+                          (NP 중국/NPR+대사관/NNC
+                              방문/NNC+은/PAU))
+               (S (NP-ADV 이런/DAN
+                          측면/NNC+에서/PAD+도/PAU)
+                  (S (NP-SBJ *pro*)
+                     (VP (VP (VP (NP-COMP *T*-1)
+                                 (NP-OBJ 의미/NNC+을/PCA)
+                                 (VV 부여/NNC+하/XSV+을/EAN))
+                             (VX 수/NNX
+                                 있/VJ+을/EAN))
+                         (VX 것/NNX))))
+               "/SRQ
+               이/CO+라/EFN+고/PAD)
+       덧붙이/VV+었/EPF+다/EFN)
+   ./SFN)
+
+;;3060075:25: 통일부는 김 총비서의 중국대사관 방문이 중국의 지속적인 대북지원에 대한 감사 표시 ~, 최근 진전되고 있는 북 ~- ~중 우호관계 강화 ~, 북한의 대미 ~, 대일관계 주력에 대한 중국의 우려 불식 ~, 향후 중국의 변함없는 지지 확보 ~, 대미 ~, 대일관계 개선 추진 과정에서의 협상 지렛대 활용 등일 것으로 분석했다 ~.
+
+(S (NP-SBJ 통일부/NNC+은/PAU)
+   (VP (NP-COMP (S (NP-SBJ (NP 김/NPR
+                               총비서/NNC+의/PAN)
+                           (NP 중국/NPR+대사관/NNC
+                               방문/NNC+이/PCA))
+                   (VP (NP (NP (NP (NP (S (WHNP-1 *op*)
+                                          (S (NP-SBJ *T*-1)
+                                             (VP (NP-COMP (NP 중국/NPR+의/PAN)
+                                                          (NP (S (WHNP-2 *op*)
+                                                                 (S (NP-SBJ *T*-2)
+                                                                    (VP (NP 지속/NNC+적/XSF+이/CO+은/EAN))))
+                                                              (NP 대/XPF+북/NPR+지원/NNC+에/PAD)))
+                                                 대하/VV+은/EAN)))
+                                       (NP 감사/NNC))
+                                   (NP 표시/NNC))
+                               ,/SCM
+                               (NP (NP (S (WHNP-3 *op*)
+                                          (S (NP-SBJ *T*-3)
+                                             (VP (VP (NP-ADV 최근/NNC)
+                                                     (VP (VV 진전/NNC+되/XSV+고/ECS)))
+                                                 있/VX+는/EAN)))
+                                       (NP 북/NPR
+                                           -/SSY
+                                           중/NPR
+                                           우호/NNC+관계/NNC))
+                                   (NP 강화/NNC))
+                               ,/SCM
+                               (NP (NP (S (WHNP-4 *op*)
+                                          (S (NP-SBJ *T*-4)
+                                             (VP (NP-COMP (NP 북한/NPR+의/PAN)
+                                                          (NP (NP 대/XPF+미/NPR
+                                                                  ,/SCM
+                                                                  대/XPF+일/NPR+관계/NNC)
+                                                              (NP 주력/NNC+에/PAD)))
+                                                 대하/VV+은/EAN)))
+                                       (NP (NP 중국/NPR+의/PAN)
+                                           (NP 우려/NNC)))
+                                   (NP 불식/NNC))
+                               ,/SCM
+                               (NP (NP 향후/NNC)
+                                   (NP (NP (NP 중국/NPR+의/PAN)
+                                           (NP (S (WHNP-5 *op*)
+                                                  (S (NP-SBJ *T*-5)
+                                                     (ADJP 변함없/VJ+는/EAN)))
+                                               (NP 지지/NNC)))
+                                       (NP 확보/NNC)))
+                               ,/SCM
+                               (NP (NP (NP (NP 대/XPF+미/NPR
+                                               ,/SCM
+                                               대/XPF+일/NPR+관계/NNC)
+                                           (NP 개선/NNC))
+                                       (NP 추진/NNC
+                                           과정/NNC+에서/PAD+의/PAN))
+                                   (NP 협상/NNC
+                                       지렛대/NNC
+                                       활용/NNC)))
+                           (NP 등/NNX+이/CO+을/EAN))))
+                (NP 것/NNX+으로/PAD))
+       (VV 분석/NNC+하/XSV+었/EPF+다/EFN))
+   ./SFN)
+
+;;3060075:26: 통일부 당국자는 " ~김 총비서의 수행 인사로는 외무성 관리가 없고 지재룡 당 국제부 부부장 1 명 뿐인 점과 그의 통상적인 수행 인사 구성으로 미뤄 볼 때 북한당국이 김 총비서의 중국대사관 방문에 외교적으로 특별한 의미를 부여하지는 않은 것 같다 ~" ~고 말했다 ~.
+
+(S (NP-SBJ 통일부/NNC
+           당국자/NNC+은/PAU)
+   (VP (S-COMP "/SLQ
+               (NP-ADV (S (WHNP *op*)
+                          (S (NP-SBJ *pro*)
+                             (VP (S (NP-SBJ *pro*)
+                                    (VP (NP-COMP (NP (S (NP-ADV (NP 김/NPR
+                                                                    총비서/NNC+의/PAN)
+                                                                (NP 수행/NNC
+                                                                    인사/NNC+으로/PAD+은/PAU))
+                                                        (S (S (NP-SBJ 외무성/NNC
+                                                                      관리/NNC+이/PCA)
+                                                              (ADJP 없/VJ+고/ECS))
+                                                           (S (NP-SBJ *pro*)
+                                                              (VP (NP (NP (NP 지재룡/NPR)
+                                                                          (NP 당/NNC
+                                                                              국제부/NNC
+                                                                              부부장/NNC)
+                                                                          (NP 1/NNU
+                                                                              명/NNX))
+                                                                      (NP 뿐/NNX+이/CO+은/EAN))))))
+                                                     (NP 점/NNC+과/PCJ))
+                                                 (NP (NP 그/NPN+의/PAN)
+                                                     (NP (S (WHNP-1 *op*)
+                                                            (S (NP-SBJ *T*-1)
+                                                               (VP (NP 통상/NNC+적/XSF+이/CO+은/EAN))))
+                                                         (NP 수행/NNC
+                                                             인사/NNC
+                                                             구성/NNC+으로/PAD))))
+                                        미루/VV+어/ECS))
+                                 (VP (NP-OBJ *pro*)
+                                     보/VV+을/EAN))))
+                       (NP 때/NNC))
+               (S (NP-SBJ 북한/NPR+당국/NNC+이/PCA)
+                  (VP (VP (VP (NP-COMP (NP 김/NPR
+                                           총비서/NNC+의/PAN)
+                                       (NP 중국/NPR+대사관/NNC
+                                           방문/NNC+에/PAD))
+                              (NP-OBJ (S (WHNP-2 *op*)
+                                         (S (NP-SBJ *T*-2)
+                                            (ADJP (NP-ADV 외교/NNC+적/XSF+으로/PAD)
+                                                  (ADJP (VJ 특별/NNC+하/XSJ+은/EAN)))))
+                                      (NP 의미/NNC+을/PCA))
+                              (VV 부여/NNC+하/XSV+지/EFN+은/PAU))
+                          않/VX+은/EAN)
+                      (VX 것/NNX
+                          같/VJ+다/EFN)))
+               "/SRQ
+               고/PAD)
+       말하/VV+었/EPF+다/EFN)
+   ./SFN)
+
+;;3060075:27: 그는 " ~김 총비서가 만찬을 위해 중국대사관을 방문한 것인지 아니면 먼저 방문했다가 만찬까지 이어졌는지는 아직 확인되지 않고 있다 ~" ~면서 " ~평양의 중국대사관은 관저와 공관이 붙어 있는 것으로 안다 ~" ~고 덧붙였다 ~.
+
+(S (NP-SBJ 그/NPN+은/PAU)
+   (VP (S "/SLQ
+          (S-SBJ (S (NP-SBJ *pro*)
+                    (VP (NP (S (NP-SBJ 김/NPR
+                                       총비서/NNC+이/PCA)
+                               (VP (S (NP-SBJ *pro*)
+                                      (VP (NP-OBJ 만찬/NNC+을/PCA)
+                                          위하/VV+어/ECS))
+                                   (VP (NP-OBJ 중국/NPR+대사관/NNC+을/PCA)
+                                       (VV 방문/NNC+하/XSV+은/EAN))))
+                            (NP 것/NNX+이/CO+은지/EFN))))
+                 (S (S (NP-SBJ *pro*)
+                       (ADJP 아니/VJ+으면/ECS))
+                    (S (NP-SBJ *pro*)
+                       (VP (S (NP-SBJ *pro*)
+                              (VP (ADVP 먼저/ADV)
+                                  (VP (NP-OBJ *pro*)
+                                      (VV 방문/NNC+하/XSV+었/EPF+다가/ECS))))
+                           (VP (NP-COMP 만찬/NNC+까지/PAU)
+                               (VV 잇/VV+어지/XSV+었/EPF+는지/EFN+은/PAU))))))
+          (VP (VP (VP (ADVP 아직/ADV)
+                      (VP (VV 확인/NNC+되/XSV+지/ECS)))
+                  않/VX+고/ECS)
+              있/VX+다/EFN)
+          "/SRQ
+          면서/ECS)
+       (VP (S-COMP "/SLQ
+                   (NP-SBJ *pro*)
+                   (VP (NP-COMP (S (NP-SBJ (NP 평양/NPR+의/PAN)
+                                           (NP 중국/NPR+대사관/NNC+은/PAU))
+                                   (S (NP-SBJ (NP 관저/NNC+과/PCJ)
+                                              (NP 공관/NNC+이/PCA))
+                                      (VP (VP 붙/VV+어/ECS)
+                                          있/VX+는/EAN)))
+                                (NP 것/NNX+으로/PAD))
+                       안/VV+다/EFN)
+                   "/SRQ
+                   고/PAD)
+           덧붙이/VV+었/EPF+다/EFN))
+   ./SFN)
+
+;;3060076:28: 한보철강이 이번주중에 미국 네이버스 컨소시엄에 팔릴 전망이다 ~.
+
+(S (NP-SBJ *pro*)
+   (VP (NP (S (NP-SBJ 한보/NPR+철강/NNC+이/PCA)
+              (VP (NP-ADV 이번주/NNC+중/NNX+에/PAD)
+                  (VP (NP-COMP 미국/NPR
+                               네이버스/NPR
+                               컨소시엄/NPR+에/PAD)
+                      팔리/VV+을/EAN)))
+           (NP 전망/NNC+이/CO+다/EFN)))
+   ./SFN)
+
+;;3060076:29: 한보철강 채권은행단은 지난 3 일 서울 지방법원에 한보철강 본계약서에 대한 승인을 신청했으며 늦어도 8 일까지 결과가 나올 것이라고 6 일 밝혔다 ~.
+
+(S (NP-SBJ 한보/NPR+철강/NNC
+           채권/NNC+은행단/NNC+은/PAU)
+   (VP (S-COMP (S (NP-SBJ *pro*)
+                  (VP (NP-ADV 지난/DAN
+                              3/NNU
+                              일/NNX)
+                      (VP (NP-COMP 서울/NPR
+                                   지방/NNC+법원/NNC+에/PAD)
+                          (NP-OBJ (S (WHNP-1 *op*)
+                                     (S (NP-SBJ *T*-1)
+                                        (VP (NP-COMP 한보/NPR+철강/NNC
+                                                     본계약서/NNC+에/PAD)
+                                            대하/VV+은/EAN)))
+                                  (NP 승인/NNC+을/PCA))
+                          (VV 신청/NNC+하/XSV+었/EPF+으며/ECS))))
+               (S (S (NP-SBJ *pro*)
+                     (ADJP 늦/VJ+어도/ECS))
+                  (NP-ADV 8/NNU
+                          일/NNX+까지/PAU)
+                  (S (NP-SBJ 결과/NNC+이/PCA)
+                     (VP (VP 나오/VV+을/EAN)
+                         (VX 것/NNX+이/CO+라/EFN+고/PAD)))))
+       (VP (NP-ADV 6/NNU
+                   일/NNX)
+           (VP 밝히/VV+었/EPF+다/EFN)))
+   ./SFN)
+
+;;3060076:30: 채권은행단은 또 법원의 승인이 나오는 대로 이번주안에 미 네이버스 컨소시엄과 매각 본계약을 체결할 예정이라고 덧붙였다 ~.
+
+(S (NP-SBJ 채권/NNC+은행단/NNC+은/PAU)
+   (VP (ADVP 또/ADV)
+       (VP (NP-COMP (S (NP-SBJ *pro*)
+                       (VP (NP-ADV (S (NP-SBJ (NP 법원/NNC+의/PAN)
+                                              (NP 승인/NNC+이/PCA))
+                                      (VP 나오/VV+는/EAN))
+                                   (NP 대로/NNX))
+                           (NP-ADV 이번주/NNC+안/NNC+에/PAD)
+                           (VP (NP-COMP 미/NPR
+                                        네이버스/NPR
+                                        컨소시엄/NPR+과/PAD)
+                               (VP (NP-OBJ 매각/NNC
+                                           본계약/NNC+을/PCA)
+                                   (VV 체결/NNC+하/XSV+을/EAN)))))
+                    (NP 예정/NNC+이라고/PAD))
+           덧붙이/VV+었/EPF+다/EFN))
+   ./SFN)
+
+;;3060076:31: 채권은행단은 그러나 매각 금액은 확정되지 않았다고 밝혔다 ~.
+
+(S (NP-SBJ 채권/NNC+은행단/NNC+은/PAU)
+   (VP (ADCP 그러나/ADC)
+       (VP (S-COMP (NP-SBJ 매각/NNC
+                           금액/NNC+은/PAU)
+                   (VP (VP (VV 확정/NNC+되/XSV+지/ECS))
+                       않/VX+었/EPF+다/EFN+고/PAD))
+           밝히/VV+었/EPF+다/EFN))
+   ./SFN)
+
+;;3060076:32: 미 네이버스 컨소시엄에 참여 중인 중후산업 관계자는 " ~매각 금액이 확정되지는 않았지만 4 억 8 천만 4 억 8 천 500 만달러 선이 될 것으로 보인다 ~" ~고 말했다 ~.
+
+(S (NP-SBJ (NP (S (WHNP-1 *op*)
+                  (S (NP-SBJ *T*-1)
+                     (VP (VP (NP-COMP 미/NPR
+                                      네이버스/NPR
+                                      컨소시엄/NPR+에/PAD)
+                             (VV 참여/NNC))
+                         (VX 중/NNX+이/CO+은/EAN))))
+               (NP 중후/NPR+산업/NNC))
+           (NP 관계자/NNC+은/PAU))
+   (VP (S-COMP "/SLQ
+               (NP-SBJ *pro*)
+               (VP (NP-COMP (S (S (NP-SBJ 매각/NNC
+                                          금액/NNC+이/PCA)
+                                  (VP (VP (VV 확정/NNC+되/XSV+지/ECS+은/PAU))
+                                      않/VX+었/EPF+지만/ECS))
+                               (S (NP-SBJ *pro*)
+                                  (VP (NP-COMP 4/NNU
+                                               억/NNU
+                                               8/NNU
+                                               천만/NNU
+                                               4/NNU
+                                               억/NNU
+                                               8/NNU
+                                               천/NNU
+                                               500/NNU
+                                               만/NNU+달러/NNX
+                                               선/NNC+이/PCA)
+                                      되/VV+을/EAN)))
+                            (NP 것/NNX+으로/PAD))
+                   보이/VV+는다/EFN)
+               "/SRQ
+               고/PAD)
+       말하/VV+었/EPF+다/EFN)
+   ./SFN)
+
+;;3060077:33: 대우증권은 전력사업의 구조개편이 다시 추진될 경우 ~, 한국전력의 적정주가는 5 만원에 이를 것이라며 매수를 추천했다 ~.
+
+(S (NP-SBJ 대우/NPR+증권/NNC+은/PAU)
+   (VP (S (NP-ADV (S (NP-SBJ (NP 전력/NNC+사업/NNC+의/PAN)
+                             (NP 구조/NNC+개편/NNC+이/PCA))
+                     (VP (ADVP 다시/ADV)
+                         (VP (VV 추진/NNC+되/XSV+을/EAN))))
+                  (NP 경우/NNC))
+          ,/SCM
+          (S (NP-SBJ (NP 한국/NPR+전력/NNC+의/PAN)
+                     (NP 적정/NNC+주가/NNC+은/PAU))
+             (VP (VP (NP-COMP 5/NNU
+                              만/NNU+원/NNX+에/PAD)
+                     이르/VV+을/EAN)
+                 (VX 것/NNX+이/CO+라며/ECS))))
+       (VP (NP-OBJ 매수/NNC+을/PCA)
+           (VV 추천/NNC+하/XSV+었/EPF+다/EFN)))
+   ./SFN)
+
+;;3060077:34: 대우증권은 6 일 영국의 송전 전문업체인 ' ~내셔널 그리드 ~( ~National Grid ~) ~' ~가 전력사업 구조개편 이후 한전의 모습과 매우 흡사하다며 한전의 올해 수정 EPS ~( ~주당 순이익 ~) 2 천 594 원에 내셔널 그리드의 상대 PER ~( ~주가 수익비율 ~) ~을 적용할 때 한전의 적정주가는 5 만원 수준이라고 평가했다 ~.
+
+(S (NP-SBJ 대우/NPR+증권/NNC+은/PAU)
+   (VP (NP-ADV 6/NNU
+               일/NNX)
+       (S (NP-SBJ (S (WHNP-1 *op*)
+                     (S (NP-SBJ *T*-1)
+                        (VP (NP (NP 영국/NPR+의/PAN)
+                                (NP 송전/NNC
+                                    전문/NNC+업체/NNC+이/CO+은/EAN)))))
+                  (NP '/SLQ
+                      내셔널/NPR
+                      그리드/NPR
+                      (PRN -LRB-/SLQ
+                           National/NFW
+                           Grid/NFW
+                           -RRB-/SRQ)
+                      '/SRQ
+                      이/PCA))
+          (ADJP (NP-COMP (NP (NP 전력/NNC+사업/NNC
+                                 구조/NNC+개편/NNC
+                                 이후/NNC)
+                             (NP 한전/NPR+의/PAN))
+                         (NP 모습/NNC+과/PAD))
+                (ADJP (ADVP 매우/ADV)
+                      (ADJP (VJ 흡사/NNC+하/XSJ+다며/ECS)))))
+       (VP (S-COMP (NP-ADV (S (WHNP *op*)
+                              (S (NP-SBJ *pro*)
+                                 (VP (NP-COMP (NP 한전/NPR+의/PAN)
+                                              (NP (NP 올해/NNC
+                                                      수정/NNC
+                                                      EPS/NFW
+                                                      (PRN -LRB-/SLQ
+                                                           주당/NNC
+                                                           순이익/NNC
+                                                           -RRB-/SRQ))
+                                                  (NP 2/NNU
+                                                      천/NNU
+                                                      594/NNU
+                                                      원/NNX+에/PAD)))
+                                     (NP-OBJ (NP 내셔널/NPR
+                                                 그리드/NPR+의/PAN)
+                                             (NP 상대/NNC
+                                                 PER/NFW
+                                                 (PRN -LRB-/SLQ
+                                                      주가/NNC
+                                                      수익/NNC+비율/NNC
+                                                      -RRB-/SRQ)
+                                                 을/PCA))
+                                     (VV 적용/NNC+하/XSV+을/EAN))))
+                           (NP 때/NNC))
+                   (S (NP-SBJ (NP 한전/NPR+의/PAN)
+                              (NP 적정/NNC+주가/NNC+은/PAU))
+                      (VP (NP 5/NNU
+                              만/NNU+원/NNX
+                              수준/NNC+이/CO+라/EFN+고/PAD))))
+           (VV 평가/NNC+하/XSV+었/EPF+다/EFN)))
+   ./SFN)
+
+;;3060077:35: 대우증권은 또 전력산업 구조개편을 고려하지 않을 경우 한전의 적정주가는 3 만 5 천원 수준이라고 평가했다 ~.
+
+(S (NP-SBJ 대우/NPR+증권/NNC+은/PAU)
+   (VP (ADVP 또/ADV)
+       (VP (S-COMP (NP-ADV (S (NP-SBJ *pro*)
+                              (VP (VP (NP-OBJ 전력/NNC+산업/NNC
+                                              구조/NNC+개편/NNC+을/PCA)
+                                      (VV 고려/NNC+하/XSV+지/ECS))
+                                  않/VX+을/EAN))
+                           (NP 경우/NNC))
+                   (S (NP-SBJ (NP 한전/NPR+의/PAN)
+                              (NP 적정/NNC+주가/NNC+은/PAU))
+                      (VP (NP 3/NNU
+                              만/NNU
+                              5/NNU
+                              천/NNU+원/NNX
+                              수준/NNC+이/CO+라/EFN+고/PAD))))
+           (VV 평가/NNC+하/XSV+었/EPF+다/EFN)))
+   ./SFN)
+
+;;3060077:36: 한전의 주가는 이날 오후 2 시 30 분 현재 2 만 7 천 850 원이다 ~.
+
+(S (NP-SBJ (NP 한전/NPR+의/PAN)
+           (NP 주가/NNC+은/PAU))
+   (VP (NP-ADV 이날/NNC
+               오후/NNC
+               2/NNU
+               시/NNX
+               30/NNU
+               분/NNX
+               현재/NNC)
+       (VP (NP 2/NNU
+               만/NNU
+               7/NNU
+               천/NNU
+               850/NNU
+               원/NNX+이/CO+다/EFN)))
+   ./SFN)
+
+;;3060079:37: 석유수출국기구 ~( ~OPEC ~) 회원국들은 오는 4 월 산유량을 하루 100 만배럴 가까이 늘릴 것이라고 OPEC 회원국 고위 관리가 6 일 밝혔다 ~.
+
+(S (S-COMP-1 (NP-SBJ 석유/NNC+수출국/NNC+기구/NNC
+                     (PRN -LRB-/SLQ
+                          OPEC/NFW
+                          -RRB-/SRQ)
+                     회원국/NNC+들/XSF+은/PAU)
+             (VP (VP (NP-ADV 오는/DAN
+                             4/NNU
+                             월/NNX)
+                     (VP (NP-OBJ 산유량/NNC+을/PCA)
+                         (VP (ADVP (NP-COMP 하루/NNC
+                                            100/NNU
+                                            만/NNU+배럴/NNX)
+                                   가까이/ADV)
+                             (VP 늘리/VV+을/EAN))))
+                 (VX 것/NNX+이/CO+라/EFN+고/PAD)))
+   (S (NP-SBJ OPEC/NFW
+              회원국/NNC
+              고위/NNC
+              관리/NNC+이/PCA)
+      (VP (NP-ADV 6/NNU
+                  일/NNX)
+          (VP (S-COMP *T*-1)
+              밝히/VV+었/EPF+다/EFN)))
+   ./SFN)
+
